@@ -90,7 +90,7 @@ export default function components() {
     return (
         <div className="container">
             <Head>
-                <title>我知道你的宠物在想什么！</title>
+                <title>AI摄影点评</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             </Head>
             <main className="flex flex-col items-center justify-center min-h-screen py-2">
