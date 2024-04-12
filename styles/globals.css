@@ -34,7 +34,7 @@ body {
   .rounded-lg,
   button {
     background-color: black !important;
-    border-color: white !important;
+    border-color: #ffffff24 !important;
     border-width: 1px !important;
     border-style: solid !important;
   }
@@ -88,7 +88,7 @@ main {
   cursor: pointer;
   align-items: center;
   justify-content: center;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
   border: none;
   padding: 0.5rem 0;
   color: rgba(51, 65, 85, 1);
