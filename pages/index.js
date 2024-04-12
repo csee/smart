@@ -147,7 +147,7 @@ export default function components() {
                                 onChange={previewImage}
                             />
                             <Button type="submit" variant="dark" disabled={loading || compressing}>
-                                {compressing ? '我看看' : loading ? '我思考一下' : '开始分析'}
+                                {compressing ? '我看看' : loading ? '正在分析' : '开始分析'}
                             </Button>
                         </div>
                     </form>
